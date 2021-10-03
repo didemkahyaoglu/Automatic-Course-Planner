@@ -4,8 +4,11 @@
 a classroom and a time slot for each course in the curriculum. 
 
 •	Courses in the same year should not be intersected with each other. 
+
 •	There can be some intersection between courses of different years. There are 2 different types of the classroom; big and small. Mandatory courses in the curriculum should be assigned to a big classroom. Elective courses can be assigned to a big or small classroom according to the availability of them. 
+
 •	There is a limited number of dedicated classrooms for the department. The number of each type of classroom should be read from a file.
+
 •	Besides, for each weekday there are 2-time slots available; morning and afternoon.  
 
   So there are in total 10 time slots available to place a course (5 weekdays*2 time slot).In the department curriculum, there are some service courses which are given by another 
